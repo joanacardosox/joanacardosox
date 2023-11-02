@@ -1,4 +1,4 @@
-HI THERE, I'M JOANA CARDOSO ✋
+HEY GUYS! 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/joana-maria-0a6137271/)
