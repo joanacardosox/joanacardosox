@@ -12,5 +12,7 @@
 <img align="center" alt="tuga-rn" height="60" width="90" src="https://www.dropbox.com/s/4lab04eye23d5yt/1631026680-logo-react-native.png?raw=1" />
 </div>
 
+</br>
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joana-maria-0a6137271/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joanaa.maria5/)
