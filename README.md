@@ -1,7 +1,7 @@
 
 ### Hi 👋 ###
 ### My name is Joana! ###
-#### Web and Mobile Developer
+#### Software Developer
 
 
 
