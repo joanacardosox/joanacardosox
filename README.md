@@ -3,6 +3,12 @@
 ### My name is Joana! ###
 #### Software Developer
 
+<div>
+
+  <img src="https://komarev.com/ghpvc/?username=jxxrvt&style=for-the-badge&color=1d1f21"/>
+  
+</div>
+
 
 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxxrvt&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
