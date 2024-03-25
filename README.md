@@ -1,21 +1,20 @@
+<div align="center" >
 
 ### Hi 👋 ###
 ### My name is Joana! ###
 #### Software Developer
 
-<div align="center" >
 
-  <img src="https://komarev.com/ghpvc/?username=jxxrvt&style=for-the-badge&color=1d1f21"/>
+  <img src="https://komarev.com/ghpvc/?username=joanacardosox&style=for-the-badge&color=1d1f21"/>
   
 </div>
  <div align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=guilhermelinosp&theme=dark&hide_border=true&include_all_commits=true&count_private=true&text_color=fff&icon_color=fff&title_color=fff&bg_color=0d1117">
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=joanacardosox&theme=dark&hide_border=true&include_all_commits=true&count_private=true&text_color=fff&icon_color=fff&title_color=fff&bg_color=0d1117">
 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxxrvt&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-<div style="display: inline_block"><br>
-<img align="center" alt="tuga-js" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img width="300px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanacardosox&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 
+
+<img align="center" alt="tuga-js" height="500" width="600" src="https://skillicons.dev/icons?i=react,ts,vite,nodejs,tailwind,js,html,css,mongodb,vscode" />
 </div>
 
 </br>
