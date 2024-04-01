@@ -7,7 +7,7 @@
 
 <div align="center">
    
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=joanacardosox&theme=dark&hide_border=true&include_all_commits=true&count_private=true&text_color=fff&icon_color=fff&title_color=fff&bg_color=0d1117"/>
+
 
  <img width="300px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanacardosox&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 
