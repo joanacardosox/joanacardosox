@@ -3,7 +3,6 @@
 ### Hi 👋 ###
 ### My name is Joana! ###
 #### Software Developer
-  <img src="https://komarev.com/ghpvc/?username=joanacardosox&style=for-the-badge&color=1d1f21"/>
 </div>
 
 <div align="center">
