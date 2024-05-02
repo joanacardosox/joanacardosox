@@ -1,7 +1,6 @@
 <div align="center" >
 
-### Hi 👋 ###
-### My name is Joana! ###
+# <div align="center">Hi👋, My name is Joana! </div>
 #### FrontEnd Developer
 </div>
 
