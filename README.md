@@ -2,7 +2,7 @@
 
 ### Hi 👋 ###
 ### My name is Joana! ###
-#### Software Developer
+#### FrontEnd Developer
 </div>
 
 <div align="center">
